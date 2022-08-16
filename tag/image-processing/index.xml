@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Image processing | Siddharth Sivankutty</title>
+    <link>siddharth-sivankutty.github.io/tag/image-processing/</link>
+      <atom:link href="siddharth-sivankutty.github.io/tag/image-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Image processing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/siddharth-sivankutty.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Image processing</title>
+      <link>siddharth-sivankutty.github.io/tag/image-processing/</link>
+    </image>
+    
+    <item>
+      <title>Compressive Raman imaging with spatial frequency modulated illumination</title>
+      <link>siddharth-sivankutty.github.io/publication/scotte-compressive-2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>siddharth-sivankutty.github.io/publication/scotte-compressive-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

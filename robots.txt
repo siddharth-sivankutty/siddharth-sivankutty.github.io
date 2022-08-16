@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: siddharth-sivankutty.github.io/sitemap.xml

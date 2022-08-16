@@ -1,0 +1,1342 @@
+<!DOCTYPE html><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.6.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Siddharth Sivankutty" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Imaging." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="siddharth-sivankutty.github.io/project/superresolution-imaging/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/siddharth-sivankutty.github.io/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/siddharth-sivankutty.github.io/css/wowchemy.3495fc6150afdd177f1d04fbba9f5e2c.css" />
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/siddharth-sivankutty.github.io/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/siddharth-sivankutty.github.io/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+  
+    <link rel="manifest" href="siddharth-sivankutty.github.io/manifest.webmanifest" />
+  
+
+  
+  <link rel="icon" type="image/png" href="/siddharth-sivankutty.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/siddharth-sivankutty.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="siddharth-sivankutty.github.io/project/superresolution-imaging/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary" />
+  
+  <meta property="og:site_name" content="Siddharth Sivankutty" />
+  <meta property="og:url" content="siddharth-sivankutty.github.io/project/superresolution-imaging/" />
+  <meta property="og:title" content="Super-resolution Imaging | Siddharth Sivankutty" />
+  <meta property="og:description" content="Imaging." /><meta property="og:image" content="/siddharth-sivankutty.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="/siddharth-sivankutty.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2022-08-16T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2022-08-16T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "siddharth-sivankutty.github.io/project/superresolution-imaging/"
+  },
+  "headline": "Super-resolution Imaging",
+  
+  "datePublished": "2022-08-16T00:00:00Z",
+  "dateModified": "2022-08-16T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Siddharth Sivankutty"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Siddharth Sivankutty",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/siddharth-sivankutty.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Imaging."
+}
+</script>
+
+  
+
+  
+
+  
+
+
+  <title>Super-resolution Imaging | Siddharth Sivankutty</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="91574881ccdae04a22871ce4f29bb4c1" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/siddharth-sivankutty.github.io/js/wowchemy-init.min.613040fe4f2c0f007b4dcb64404201cb.js"></script>
+
+  
+
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Siddharth Sivankutty</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Siddharth Sivankutty</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/siddharth-sivankutty.github.io/#about"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/siddharth-sivankutty.github.io/#projects"><span>Projects</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/siddharth-sivankutty.github.io/#posts"><span>Posts</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/siddharth-sivankutty.github.io/#featured"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/siddharth-sivankutty.github.io/#contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article article-project">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Super-resolution Imaging</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Aug 16, 2022
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <h2 id="stimulated-emission-depletion-microscopy">Stimulated Emission Depletion Microscopy</h2>
+<p>An intuitive understanding of STED microscopy (see Figure 1) can be realized as the action of two laser beams on the dynamics of a fluorescent molecule (fluorophore) that is attached to the subcellular structure. The two laser beams are spectrally se-lected to match the absorption spectrum (Excitation beam) and the red edge of the emission spectrum (STED beam) of the fluorophore. Conventionally, the excitation beam is focused down to a spot and induces an excitation and a subsequent relaxa-tion of the fluorophore molecule by the spontaneous emission of a fluorescent pho-ton. This spot is scanned across the sample to build an image of the sample. Hence the resolution is governed by the size of this diffraction limited focal spot. To over-come this limit, the STED beam is shaped in the shape of a doughnut and its focal spot is overlapped spatially with the excitation volume. The role of the STED beam is to control spatially and temporally the rate of depletion of this excited state before any fluorophore emission occurs. This is done by forcing all the molecules at the pe-riphery of the doughnut to ground state instantaneously by stimulated emission. Meanwhile those in the central dark spot continue to emit fluorescence.  By simply increasing the number of incident STED photons, one can saturate this depletion of the excited state, thereby decreasing the effective detection volume to well below the diffraction limit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-a-typical-sted-setup">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="sted-setup" srcset="
+               /siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_sted-setup_hu6beee69852725766b8b979503785ea67_79372_878ec638d2b7e043c0e59356deea09ce.webp 400w,
+               /siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_sted-setup_hu6beee69852725766b8b979503785ea67_79372_38a1fa4cd8d51e196d0c173c9ff3c9c3.webp 760w,
+               /siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_sted-setup_hu6beee69852725766b8b979503785ea67_79372_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_sted-setup_hu6beee69852725766b8b979503785ea67_79372_878ec638d2b7e043c0e59356deea09ce.webp"
+               width="468"
+               height="291"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      A typical STED setup
+    </figcaption></figure>
+</p>
+<p>The key challenges towards realizing and building systems were two-fold i) the interferometric precision involved in its operation, considering two or three ultrashort pulses with low temporal coherence and ii) the variability involved in working with complex biological and chemical systems. I was involved in practically all aspects of the project and set up such a system from scratch. The guiding design principles were robustness and user-friendly behavior since the system was to be hosted at an imaging platform (Centre de Photonique Biomédicale, Orsay). A pulsed super-continuum fiber laser was employed to ensure flexibility, low average powers compatible with bio-imaging and time resolved measurements. Different strategies with respect to shaping the depletion beams such as the use of spatial light modulators and phase masks on the physical substrates were explored.  A large part of my work was to identify and solve the bottlenecks of using commercially available black-box hardware. Through the course of first two years of the dissertation, these issues were addressed with a combination of home-built systems for scanning and acquisition. In addition, we also developed a time resolved detection system, based on Time Correlated Single Photon Counting, to examine changes to the lifetime of the fluoro-phores in different conditions. At this time, this was the first demonstration of such time-resolved STED systems at the national level.</p>
+<!-- ![sted-images](imgs/2022-08-16_sted-imaging.png " Superresolved images of lymphoblastoids") -->
+<figure>
+<img src="imgs/2022-08-16_sted-imaging.png" alt="Employee data" width="480" title="Superresolved images of lymphoblastoids">
+<figcaption text-align: center>Superresolved images of lymphoblastoids</figcaption>
+</figure>
+<h2 id="super-critical-angle-fluorescence-microscopy">Super-critical Angle Fluorescence Microscopy</h2>
+<p>In addition to lateral resolution, a number of biological studies also require a high axial resolution. This has proved particularly challenging to address over the years. For instance, in membrane biology, this question reduces to the optical confinement of the light fields to a sub diffraction limited zone at the membrane interface. In a novel alternative approach to imaging the cellular membrane, we detect exclusively what is known as the supercritical angular fluorescence (SAF). When an emitter is sufficiently close to an interface between two media with different refractive indices, the near field components of radiation can tunnel through and become propagative on the side with the higher refractive index. This appears as light well above the critical angle as defined by Snell-Descartes law. This supercritical angular emission can be up to 34% of the total emission when the molecule is on the surface and exponentially decreases when it is further away. Hence, this allows us to selectively image the membrane by detecting purely the SAF signal.</p>
+<!-- ![saf-setup](imgs/2022-08-16_saf-setup.png "Schematic - SAF") -->
+<!-- ![saf-images](imgs/2022-08-16_saf-imaging.png "Optical nearfield imaging") -->
+<figure>
+<img src="imgs/2022-08-16_saf-imaging.png" alt="Employee data" width="480"  title="Optical nearfield imaging">
+<figcaption text-align: center>Optical nearfield imaging</figcaption>
+</figure>
+The angular discrimination of the fluorescence below the critical angle and the su-percritical angles is the key to realize such a super resolved image. With a high nu-merical aperture objective lens, this angular information is mapped to a radial posi-tion on its back-focal plane, and SAF signal can be selectively observed by introduc-ing a simple annular amplitude mask in this position. We have demonstrated mem-brane specific imaging in biological samples (Figure 3) with an axial resolution of about 150 nm with a simple modification to a conventional laser scanning system. [17]As the super-resolution capabilities arise from a modification to the detection system, this technique could be integrated easily to existing confocal microscopes and more importantly to our STED system. Contrary to earlier efforts at axial super resolution with STED, this is a particularly simple yet powerful approach for 3D su-per resolved imaging. As a first demonstration of the technique, we imaged test samples with an all optical 3D resolution of 70x70x167 nm. [18,19] The development of STED-SAF technique would be a powerful tool to study the cell membrane. In particular, due to its all optical nature, it is noninvasive and can be extended to ena-ble other functional techniques like fluorescence correlation spectroscopy or lifetime imaging with very high spatial resolution with our time resolved detection system. This opens up interesting possibilities both in our team and the wider scientific community in life sciences to follow and understand several open questions.  
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-superresolved-surface-imaging-with-saf-sted">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="saf-images" srcset="
+               /siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_SAF-STED_hud8d4a0302bc840242b228ec66f7f652b_606119_860763edf4f09e458d2df48f70c758e1.webp 400w,
+               /siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_SAF-STED_hud8d4a0302bc840242b228ec66f7f652b_606119_a7c387c15a10ca3123dbf58c718f05e3.webp 760w,
+               /siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_SAF-STED_hud8d4a0302bc840242b228ec66f7f652b_606119_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_SAF-STED_hud8d4a0302bc840242b228ec66f7f652b_606119_860763edf4f09e458d2df48f70c758e1.webp"
+               width="760"
+               height="438"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      Superresolved surface imaging with SAF-STED
+    </figcaption></figure>
+</p>
+<h2 id="spot-variation-sted-fcs">Spot Variation STED-FCS</h2>
+<p>As one of the few experts on the hands-on setup of STED systems, I had the oppor-tunity to collaborate with group of Didier MARGUET (CIML, Marseille) on a novel correlation spectroscopy technique, called spot variation fluorescence correlation spectroscopy (svFCS). The strength of said technique is to allow the study of diffu-sion and motility on biological surfaces at varying spatial scales. A particular scien-tific goal was to determine if the so-called transient nano-domains are simply arti-facts since information was not available at multiple length scales (nano-metric to hundreds of micrometers). In this regards, we aimed to push the upper-bound on the resolution to tens of nanometers by combining svFCS to STED. This instrument, fusing both imaging and correlation spectroscopy at multiple length scales, is now hosted on the Luminy campus of the Aix-Marseille Université.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-spot-variation-fcs-with-sted">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="saf-images" srcset="
+               /siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_svFCS_hu04115aed2e8ca91cc1cbeffda9e0baf9_799438_b742c31a09e2be008c8af12a942cbb7b.webp 400w,
+               /siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_svFCS_hu04115aed2e8ca91cc1cbeffda9e0baf9_799438_45aa58186f1bb5781ac55d647746f043.webp 760w,
+               /siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_svFCS_hu04115aed2e8ca91cc1cbeffda9e0baf9_799438_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_svFCS_hu04115aed2e8ca91cc1cbeffda9e0baf9_799438_b742c31a09e2be008c8af12a942cbb7b.webp"
+               width="746"
+               height="760"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      Spot Variation FCS with STED
+    </figcaption></figure>
+</p>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="siddharth-sivankutty.github.io/tag/imaging/">Imaging</a>
+  
+  <a class="badge badge-light" href="siddharth-sivankutty.github.io/tag/lensless/">lensless</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=siddharth-sivankutty.github.io/project/superresolution-imaging/&amp;text=Super-resolution%20Imaging" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=siddharth-sivankutty.github.io/project/superresolution-imaging/&amp;t=Super-resolution%20Imaging" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Super-resolution%20Imaging&amp;body=siddharth-sivankutty.github.io/project/superresolution-imaging/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=siddharth-sivankutty.github.io/project/superresolution-imaging/&amp;title=Super-resolution%20Imaging" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Super-resolution%20Imaging%20siddharth-sivankutty.github.io/project/superresolution-imaging/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=siddharth-sivankutty.github.io/project/superresolution-imaging/&amp;title=Super-resolution%20Imaging" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <img class="avatar mr-3 avatar-circle" src="/siddharth-sivankutty.github.io/authors/admin/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg" alt="Siddharth Sivankutty">
+    
+
+    <div class="media-body">
+      <h5 class="card-title">Siddharth Sivankutty</h5>
+      <h6 class="card-subtitle">researcher | laser pong aficionado</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/finding_sid" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=UnjXZHwAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/siddharth-sivankutty" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/siddharth-sivankutty" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0001-5079-4409" target="_blank" rel="noopener">
+        <i class="fab fa-orcid"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="project-related-pages content-widget-hr">
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+    </div>
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2022 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/siddharth-sivankutty.github.io/js/vendor-bundle.min.46271ef31da3f018e9cd1b59300aa265.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+
+  <script src="/siddharth-sivankutty.github.io/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+<script src="/siddharth-sivankutty.github.io/en/js/wowchemy.min.6ae253cfe39dce6eae1aa243112736e8.js"></script>
+
+
+
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/siddharth-sivankutty.github.io/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
