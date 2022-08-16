@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Siddharth Sivankutty</title>
-    <link>siddharth-sivankutty.github.io/project/</link>
-      <atom:link href="siddharth-sivankutty.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://siddharth-sivankutty.github.io/project/</link>
+      <atom:link href="https://siddharth-sivankutty.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/siddharth-sivankutty.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://siddharth-sivankutty.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>siddharth-sivankutty.github.io/project/</link>
+      <link>https://siddharth-sivankutty.github.io/project/</link>
     </image>
     
     <item>
       <title>Super-resolution Imaging</title>
-      <link>siddharth-sivankutty.github.io/project/superresolution-imaging/</link>
+      <link>https://siddharth-sivankutty.github.io/project/superresolution-imaging/</link>
       <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/project/superresolution-imaging/</guid>
+      <guid>https://siddharth-sivankutty.github.io/project/superresolution-imaging/</guid>
       <description>&lt;h2 id=&#34;stimulated-emission-depletion-microscopy&#34;&gt;Stimulated Emission Depletion Microscopy&lt;/h2&gt;
 &lt;p&gt;An intuitive understanding of STED microscopy (see Figure 1) can be realized as the action of two laser beams on the dynamics of a fluorescent molecule (fluorophore) that is attached to the subcellular structure. The two laser beams are spectrally se-lected to match the absorption spectrum (Excitation beam) and the red edge of the emission spectrum (STED beam) of the fluorophore. Conventionally, the excitation beam is focused down to a spot and induces an excitation and a subsequent relaxa-tion of the fluorophore molecule by the spontaneous emission of a fluorescent pho-ton. This spot is scanned across the sample to build an image of the sample. Hence the resolution is governed by the size of this diffraction limited focal spot. To over-come this limit, the STED beam is shaped in the shape of a doughnut and its focal spot is overlapped spatially with the excitation volume. The role of the STED beam is to control spatially and temporally the rate of depletion of this excited state before any fluorophore emission occurs. This is done by forcing all the molecules at the pe-riphery of the doughnut to ground state instantaneously by stimulated emission. Meanwhile those in the central dark spot continue to emit fluorescence.  By simply increasing the number of incident STED photons, one can saturate this depletion of the excited state, thereby decreasing the effective detection volume to well below the diffraction limit
 
@@ -38,10 +38,10 @@
 &lt;figure  id=&#34;figure-a-typical-sted-setup&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;sted-setup&#34; srcset=&#34;
-               /siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_sted-setup_hu6beee69852725766b8b979503785ea67_79372_878ec638d2b7e043c0e59356deea09ce.webp 400w,
-               /siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_sted-setup_hu6beee69852725766b8b979503785ea67_79372_38a1fa4cd8d51e196d0c173c9ff3c9c3.webp 760w,
-               /siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_sted-setup_hu6beee69852725766b8b979503785ea67_79372_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;siddharth-sivankutty.github.io/siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_sted-setup_hu6beee69852725766b8b979503785ea67_79372_878ec638d2b7e043c0e59356deea09ce.webp&#34;
+               /project/superresolution-imaging/imgs/2022-08-16_sted-setup_hu6beee69852725766b8b979503785ea67_79372_878ec638d2b7e043c0e59356deea09ce.webp 400w,
+               /project/superresolution-imaging/imgs/2022-08-16_sted-setup_hu6beee69852725766b8b979503785ea67_79372_38a1fa4cd8d51e196d0c173c9ff3c9c3.webp 760w,
+               /project/superresolution-imaging/imgs/2022-08-16_sted-setup_hu6beee69852725766b8b979503785ea67_79372_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_sted-setup_hu6beee69852725766b8b979503785ea67_79372_878ec638d2b7e043c0e59356deea09ce.webp&#34;
                width=&#34;468&#34;
                height=&#34;291&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -83,10 +83,10 @@ The angular discrimination of the fluorescence below the critical angle and the 
 &lt;figure  id=&#34;figure-superresolved-surface-imaging-with-saf-sted&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;saf-images&#34; srcset=&#34;
-               /siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_SAF-STED_hud8d4a0302bc840242b228ec66f7f652b_606119_860763edf4f09e458d2df48f70c758e1.webp 400w,
-               /siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_SAF-STED_hud8d4a0302bc840242b228ec66f7f652b_606119_a7c387c15a10ca3123dbf58c718f05e3.webp 760w,
-               /siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_SAF-STED_hud8d4a0302bc840242b228ec66f7f652b_606119_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;siddharth-sivankutty.github.io/siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_SAF-STED_hud8d4a0302bc840242b228ec66f7f652b_606119_860763edf4f09e458d2df48f70c758e1.webp&#34;
+               /project/superresolution-imaging/imgs/2022-08-16_SAF-STED_hud8d4a0302bc840242b228ec66f7f652b_606119_860763edf4f09e458d2df48f70c758e1.webp 400w,
+               /project/superresolution-imaging/imgs/2022-08-16_SAF-STED_hud8d4a0302bc840242b228ec66f7f652b_606119_a7c387c15a10ca3123dbf58c718f05e3.webp 760w,
+               /project/superresolution-imaging/imgs/2022-08-16_SAF-STED_hud8d4a0302bc840242b228ec66f7f652b_606119_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_SAF-STED_hud8d4a0302bc840242b228ec66f7f652b_606119_860763edf4f09e458d2df48f70c758e1.webp&#34;
                width=&#34;760&#34;
                height=&#34;438&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -115,10 +115,10 @@ The angular discrimination of the fluorescence below the critical angle and the 
 &lt;figure  id=&#34;figure-spot-variation-fcs-with-sted&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;saf-images&#34; srcset=&#34;
-               /siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_svFCS_hu04115aed2e8ca91cc1cbeffda9e0baf9_799438_b742c31a09e2be008c8af12a942cbb7b.webp 400w,
-               /siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_svFCS_hu04115aed2e8ca91cc1cbeffda9e0baf9_799438_45aa58186f1bb5781ac55d647746f043.webp 760w,
-               /siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_svFCS_hu04115aed2e8ca91cc1cbeffda9e0baf9_799438_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;siddharth-sivankutty.github.io/siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_svFCS_hu04115aed2e8ca91cc1cbeffda9e0baf9_799438_b742c31a09e2be008c8af12a942cbb7b.webp&#34;
+               /project/superresolution-imaging/imgs/2022-08-16_svFCS_hu04115aed2e8ca91cc1cbeffda9e0baf9_799438_b742c31a09e2be008c8af12a942cbb7b.webp 400w,
+               /project/superresolution-imaging/imgs/2022-08-16_svFCS_hu04115aed2e8ca91cc1cbeffda9e0baf9_799438_45aa58186f1bb5781ac55d647746f043.webp 760w,
+               /project/superresolution-imaging/imgs/2022-08-16_svFCS_hu04115aed2e8ca91cc1cbeffda9e0baf9_799438_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_svFCS_hu04115aed2e8ca91cc1cbeffda9e0baf9_799438_b742c31a09e2be008c8af12a942cbb7b.webp&#34;
                width=&#34;746&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -131,9 +131,9 @@ The angular discrimination of the fluorescence below the critical angle and the 
     
     <item>
       <title>Lensless Endoscopes</title>
-      <link>siddharth-sivankutty.github.io/project/computational-imaging/</link>
+      <link>https://siddharth-sivankutty.github.io/project/computational-imaging/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/project/computational-imaging/</guid>
+      <guid>https://siddharth-sivankutty.github.io/project/computational-imaging/</guid>
       <description>&lt;p&gt;test 1&lt;/p&gt;
 &lt;p&gt;test 2&lt;/p&gt;
 </description>
@@ -141,9 +141,9 @@ The angular discrimination of the fluorescence below the critical angle and the 
     
     <item>
       <title>Lensless Endoscopes</title>
-      <link>siddharth-sivankutty.github.io/project/lensless-endoscopes/</link>
+      <link>https://siddharth-sivankutty.github.io/project/lensless-endoscopes/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/project/lensless-endoscopes/</guid>
+      <guid>https://siddharth-sivankutty.github.io/project/lensless-endoscopes/</guid>
       <description>&lt;p&gt;test 1&lt;/p&gt;
 &lt;p&gt;test 2&lt;/p&gt;
 </description>

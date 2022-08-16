@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Siddharth Sivankutty</title>
-    <link>siddharth-sivankutty.github.io/</link>
-      <atom:link href="siddharth-sivankutty.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://siddharth-sivankutty.github.io/</link>
+      <atom:link href="https://siddharth-sivankutty.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Siddharth Sivankutty</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/siddharth-sivankutty.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://siddharth-sivankutty.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Siddharth Sivankutty</title>
-      <link>siddharth-sivankutty.github.io/</link>
+      <link>https://siddharth-sivankutty.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>siddharth-sivankutty.github.io/talk/example-talk/</link>
+      <link>https://siddharth-sivankutty.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/talk/example-talk/</guid>
+      <guid>https://siddharth-sivankutty.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>Super-resolution Imaging</title>
-      <link>siddharth-sivankutty.github.io/project/superresolution-imaging/</link>
+      <link>https://siddharth-sivankutty.github.io/project/superresolution-imaging/</link>
       <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/project/superresolution-imaging/</guid>
+      <guid>https://siddharth-sivankutty.github.io/project/superresolution-imaging/</guid>
       <description>&lt;h2 id=&#34;stimulated-emission-depletion-microscopy&#34;&gt;Stimulated Emission Depletion Microscopy&lt;/h2&gt;
 &lt;p&gt;An intuitive understanding of STED microscopy (see Figure 1) can be realized as the action of two laser beams on the dynamics of a fluorescent molecule (fluorophore) that is attached to the subcellular structure. The two laser beams are spectrally se-lected to match the absorption spectrum (Excitation beam) and the red edge of the emission spectrum (STED beam) of the fluorophore. Conventionally, the excitation beam is focused down to a spot and induces an excitation and a subsequent relaxa-tion of the fluorophore molecule by the spontaneous emission of a fluorescent pho-ton. This spot is scanned across the sample to build an image of the sample. Hence the resolution is governed by the size of this diffraction limited focal spot. To over-come this limit, the STED beam is shaped in the shape of a doughnut and its focal spot is overlapped spatially with the excitation volume. The role of the STED beam is to control spatially and temporally the rate of depletion of this excited state before any fluorophore emission occurs. This is done by forcing all the molecules at the pe-riphery of the doughnut to ground state instantaneously by stimulated emission. Meanwhile those in the central dark spot continue to emit fluorescence.  By simply increasing the number of incident STED photons, one can saturate this depletion of the excited state, thereby decreasing the effective detection volume to well below the diffraction limit
 
@@ -58,10 +58,10 @@
 &lt;figure  id=&#34;figure-a-typical-sted-setup&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;sted-setup&#34; srcset=&#34;
-               /siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_sted-setup_hu6beee69852725766b8b979503785ea67_79372_878ec638d2b7e043c0e59356deea09ce.webp 400w,
-               /siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_sted-setup_hu6beee69852725766b8b979503785ea67_79372_38a1fa4cd8d51e196d0c173c9ff3c9c3.webp 760w,
-               /siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_sted-setup_hu6beee69852725766b8b979503785ea67_79372_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;siddharth-sivankutty.github.io/siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_sted-setup_hu6beee69852725766b8b979503785ea67_79372_878ec638d2b7e043c0e59356deea09ce.webp&#34;
+               /project/superresolution-imaging/imgs/2022-08-16_sted-setup_hu6beee69852725766b8b979503785ea67_79372_878ec638d2b7e043c0e59356deea09ce.webp 400w,
+               /project/superresolution-imaging/imgs/2022-08-16_sted-setup_hu6beee69852725766b8b979503785ea67_79372_38a1fa4cd8d51e196d0c173c9ff3c9c3.webp 760w,
+               /project/superresolution-imaging/imgs/2022-08-16_sted-setup_hu6beee69852725766b8b979503785ea67_79372_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_sted-setup_hu6beee69852725766b8b979503785ea67_79372_878ec638d2b7e043c0e59356deea09ce.webp&#34;
                width=&#34;468&#34;
                height=&#34;291&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -103,10 +103,10 @@ The angular discrimination of the fluorescence below the critical angle and the 
 &lt;figure  id=&#34;figure-superresolved-surface-imaging-with-saf-sted&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;saf-images&#34; srcset=&#34;
-               /siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_SAF-STED_hud8d4a0302bc840242b228ec66f7f652b_606119_860763edf4f09e458d2df48f70c758e1.webp 400w,
-               /siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_SAF-STED_hud8d4a0302bc840242b228ec66f7f652b_606119_a7c387c15a10ca3123dbf58c718f05e3.webp 760w,
-               /siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_SAF-STED_hud8d4a0302bc840242b228ec66f7f652b_606119_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;siddharth-sivankutty.github.io/siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_SAF-STED_hud8d4a0302bc840242b228ec66f7f652b_606119_860763edf4f09e458d2df48f70c758e1.webp&#34;
+               /project/superresolution-imaging/imgs/2022-08-16_SAF-STED_hud8d4a0302bc840242b228ec66f7f652b_606119_860763edf4f09e458d2df48f70c758e1.webp 400w,
+               /project/superresolution-imaging/imgs/2022-08-16_SAF-STED_hud8d4a0302bc840242b228ec66f7f652b_606119_a7c387c15a10ca3123dbf58c718f05e3.webp 760w,
+               /project/superresolution-imaging/imgs/2022-08-16_SAF-STED_hud8d4a0302bc840242b228ec66f7f652b_606119_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_SAF-STED_hud8d4a0302bc840242b228ec66f7f652b_606119_860763edf4f09e458d2df48f70c758e1.webp&#34;
                width=&#34;760&#34;
                height=&#34;438&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -135,10 +135,10 @@ The angular discrimination of the fluorescence below the critical angle and the 
 &lt;figure  id=&#34;figure-spot-variation-fcs-with-sted&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;saf-images&#34; srcset=&#34;
-               /siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_svFCS_hu04115aed2e8ca91cc1cbeffda9e0baf9_799438_b742c31a09e2be008c8af12a942cbb7b.webp 400w,
-               /siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_svFCS_hu04115aed2e8ca91cc1cbeffda9e0baf9_799438_45aa58186f1bb5781ac55d647746f043.webp 760w,
-               /siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_svFCS_hu04115aed2e8ca91cc1cbeffda9e0baf9_799438_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;siddharth-sivankutty.github.io/siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_svFCS_hu04115aed2e8ca91cc1cbeffda9e0baf9_799438_b742c31a09e2be008c8af12a942cbb7b.webp&#34;
+               /project/superresolution-imaging/imgs/2022-08-16_svFCS_hu04115aed2e8ca91cc1cbeffda9e0baf9_799438_b742c31a09e2be008c8af12a942cbb7b.webp 400w,
+               /project/superresolution-imaging/imgs/2022-08-16_svFCS_hu04115aed2e8ca91cc1cbeffda9e0baf9_799438_45aa58186f1bb5781ac55d647746f043.webp 760w,
+               /project/superresolution-imaging/imgs/2022-08-16_svFCS_hu04115aed2e8ca91cc1cbeffda9e0baf9_799438_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://siddharth-sivankutty.github.io/project/superresolution-imaging/imgs/2022-08-16_svFCS_hu04115aed2e8ca91cc1cbeffda9e0baf9_799438_b742c31a09e2be008c8af12a942cbb7b.webp&#34;
                width=&#34;746&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -151,17 +151,17 @@ The angular discrimination of the fluorescence below the critical angle and the 
     
     <item>
       <title>Tapered Multicore Fiber for Lensless Endoscopes</title>
-      <link>siddharth-sivankutty.github.io/publication/el-moussawi-tapered-2022/</link>
+      <link>https://siddharth-sivankutty.github.io/publication/el-moussawi-tapered-2022/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/publication/el-moussawi-tapered-2022/</guid>
+      <guid>https://siddharth-sivankutty.github.io/publication/el-moussawi-tapered-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test post -1</title>
-      <link>siddharth-sivankutty.github.io/post/2022-08-16/</link>
+      <link>https://siddharth-sivankutty.github.io/post/2022-08-16/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/post/2022-08-16/</guid>
+      <guid>https://siddharth-sivankutty.github.io/post/2022-08-16/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -237,9 +237,9 @@ The angular discrimination of the fluorescence below the critical angle and the 
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>siddharth-sivankutty.github.io/post/getting-started/</link>
+      <link>https://siddharth-sivankutty.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/post/getting-started/</guid>
+      <guid>https://siddharth-sivankutty.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -315,41 +315,41 @@ The angular discrimination of the fluorescence below the critical angle and the 
     
     <item>
       <title>Line-scan compressive Raman imaging with spatiospectral encoding</title>
-      <link>siddharth-sivankutty.github.io/publication/scotte-line-scan-2020/</link>
+      <link>https://siddharth-sivankutty.github.io/publication/scotte-line-scan-2020/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/publication/scotte-line-scan-2020/</guid>
+      <guid>https://siddharth-sivankutty.github.io/publication/scotte-line-scan-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial frequency modulated imaging in coherent anti-Stokes Raman microscopy</title>
-      <link>siddharth-sivankutty.github.io/publication/heuke-spatial-2020/</link>
+      <link>https://siddharth-sivankutty.github.io/publication/heuke-spatial-2020/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/publication/heuke-spatial-2020/</guid>
+      <guid>https://siddharth-sivankutty.github.io/publication/heuke-spatial-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flexible lensless endoscope with a conformationally invariant multi-core fiber</title>
-      <link>siddharth-sivankutty.github.io/publication/tsvirkun-flexible-2019/</link>
+      <link>https://siddharth-sivankutty.github.io/publication/tsvirkun-flexible-2019/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/publication/tsvirkun-flexible-2019/</guid>
+      <guid>https://siddharth-sivankutty.github.io/publication/tsvirkun-flexible-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Compressive Raman imaging with spatial frequency modulated illumination</title>
-      <link>siddharth-sivankutty.github.io/publication/scotte-compressive-2019/</link>
+      <link>https://siddharth-sivankutty.github.io/publication/scotte-compressive-2019/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/publication/scotte-compressive-2019/</guid>
+      <guid>https://siddharth-sivankutty.github.io/publication/scotte-compressive-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>siddharth-sivankutty.github.io/slides/example/</link>
+      <link>https://siddharth-sivankutty.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/slides/example/</guid>
+      <guid>https://siddharth-sivankutty.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -472,89 +472,89 @@ $$&lt;/p&gt;
     
     <item>
       <title>Supercritical Angle Fluorescence for Enhanced Axial Sectioning in STED Microscopy</title>
-      <link>siddharth-sivankutty.github.io/publication/sivankutty-supercritical-2019/</link>
+      <link>https://siddharth-sivankutty.github.io/publication/sivankutty-supercritical-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/publication/sivankutty-supercritical-2019/</guid>
+      <guid>https://siddharth-sivankutty.github.io/publication/sivankutty-supercritical-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-shot noninterferometric measurement of the phase transmission matrix in multicore fibers</title>
-      <link>siddharth-sivankutty.github.io/publication/sivankutty-single-shot-2018/</link>
+      <link>https://siddharth-sivankutty.github.io/publication/sivankutty-single-shot-2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/publication/sivankutty-single-shot-2018/</guid>
+      <guid>https://siddharth-sivankutty.github.io/publication/sivankutty-single-shot-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A straightforward STED-background corrected fitting model for unbiased STED-FCS analyses</title>
-      <link>siddharth-sivankutty.github.io/publication/wang-straightforward-2018/</link>
+      <link>https://siddharth-sivankutty.github.io/publication/wang-straightforward-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/publication/wang-straightforward-2018/</guid>
+      <guid>https://siddharth-sivankutty.github.io/publication/wang-straightforward-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Compressive sampling approach for image acquisition with lensless endoscope</title>
-      <link>siddharth-sivankutty.github.io/publication/guerit-compressive-2018/</link>
+      <link>https://siddharth-sivankutty.github.io/publication/guerit-compressive-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/publication/guerit-compressive-2018/</guid>
+      <guid>https://siddharth-sivankutty.github.io/publication/guerit-compressive-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-resolution multimodal flexible coherent Raman endoscope article</title>
-      <link>siddharth-sivankutty.github.io/publication/lombardini-high-resolution-2018/</link>
+      <link>https://siddharth-sivankutty.github.io/publication/lombardini-high-resolution-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/publication/lombardini-high-resolution-2018/</guid>
+      <guid>https://siddharth-sivankutty.github.io/publication/lombardini-high-resolution-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nonlinear imaging through a Fermat&#39;s golden spiral multicore fiber</title>
-      <link>siddharth-sivankutty.github.io/publication/sivankutty-nonlinear-2018/</link>
+      <link>https://siddharth-sivankutty.github.io/publication/sivankutty-nonlinear-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/publication/sivankutty-nonlinear-2018/</guid>
+      <guid>https://siddharth-sivankutty.github.io/publication/sivankutty-nonlinear-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-shot noninterferometric measurement of the phase transmission matrix in multicore fibers</title>
-      <link>siddharth-sivankutty.github.io/publication/sivankutty-single-shot-2018-1/</link>
+      <link>https://siddharth-sivankutty.github.io/publication/sivankutty-single-shot-2018-1/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/publication/sivankutty-single-shot-2018-1/</guid>
+      <guid>https://siddharth-sivankutty.github.io/publication/sivankutty-single-shot-2018-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ultra-thin flexible two-photon lensless endoscopy using multicore optical fibers</title>
-      <link>siddharth-sivankutty.github.io/publication/tsvirkun-ultra-thin-2018/</link>
+      <link>https://siddharth-sivankutty.github.io/publication/tsvirkun-ultra-thin-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/publication/tsvirkun-ultra-thin-2018/</guid>
+      <guid>https://siddharth-sivankutty.github.io/publication/tsvirkun-ultra-thin-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bending-induced inter-core group delays in multicore fibers</title>
-      <link>siddharth-sivankutty.github.io/publication/tsvirkun-bending-induced-2017/</link>
+      <link>https://siddharth-sivankutty.github.io/publication/tsvirkun-bending-induced-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/publication/tsvirkun-bending-induced-2017/</guid>
+      <guid>https://siddharth-sivankutty.github.io/publication/tsvirkun-bending-induced-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Phase retrieval in multicore fiber bundles</title>
-      <link>siddharth-sivankutty.github.io/publication/kogan-phase-2017/</link>
+      <link>https://siddharth-sivankutty.github.io/publication/kogan-phase-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/publication/kogan-phase-2017/</guid>
+      <guid>https://siddharth-sivankutty.github.io/publication/kogan-phase-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lensless Endoscopes</title>
-      <link>siddharth-sivankutty.github.io/project/computational-imaging/</link>
+      <link>https://siddharth-sivankutty.github.io/project/computational-imaging/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/project/computational-imaging/</guid>
+      <guid>https://siddharth-sivankutty.github.io/project/computational-imaging/</guid>
       <description>&lt;p&gt;test 1&lt;/p&gt;
 &lt;p&gt;test 2&lt;/p&gt;
 </description>
@@ -562,9 +562,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Lensless Endoscopes</title>
-      <link>siddharth-sivankutty.github.io/project/lensless-endoscopes/</link>
+      <link>https://siddharth-sivankutty.github.io/project/lensless-endoscopes/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/project/lensless-endoscopes/</guid>
+      <guid>https://siddharth-sivankutty.github.io/project/lensless-endoscopes/</guid>
       <description>&lt;p&gt;test 1&lt;/p&gt;
 &lt;p&gt;test 2&lt;/p&gt;
 </description>
@@ -572,97 +572,97 @@ $$&lt;/p&gt;
     
     <item>
       <title>Extended field-of-view in a lensless endoscope using an aperiodic multicore fiber</title>
-      <link>siddharth-sivankutty.github.io/publication/sivankutty-extended-2016/</link>
+      <link>https://siddharth-sivankutty.github.io/publication/sivankutty-extended-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/publication/sivankutty-extended-2016/</guid>
+      <guid>https://siddharth-sivankutty.github.io/publication/sivankutty-extended-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-shot polarimetry imaging of multicore fiber</title>
-      <link>siddharth-sivankutty.github.io/publication/sivankutty-single-shot-2016-1/</link>
+      <link>https://siddharth-sivankutty.github.io/publication/sivankutty-single-shot-2016-1/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/publication/sivankutty-single-shot-2016-1/</guid>
+      <guid>https://siddharth-sivankutty.github.io/publication/sivankutty-single-shot-2016-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-shot polarimetry imaging of multicore fibers</title>
-      <link>siddharth-sivankutty.github.io/publication/sivankutty-single-shot-2016/</link>
+      <link>https://siddharth-sivankutty.github.io/publication/sivankutty-single-shot-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/publication/sivankutty-single-shot-2016/</guid>
+      <guid>https://siddharth-sivankutty.github.io/publication/sivankutty-single-shot-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ultra-thin rigid endoscope: Two-photon imaging through a graded-index multi-mode fiber</title>
-      <link>siddharth-sivankutty.github.io/publication/sivankutty-ultra-thin-2016/</link>
+      <link>https://siddharth-sivankutty.github.io/publication/sivankutty-ultra-thin-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/publication/sivankutty-ultra-thin-2016/</guid>
+      <guid>https://siddharth-sivankutty.github.io/publication/sivankutty-ultra-thin-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ultrathin endoscopes based on multicore fibers and adaptive optics: A status review and perspectives</title>
-      <link>siddharth-sivankutty.github.io/publication/andresen-ultrathin-2016/</link>
+      <link>https://siddharth-sivankutty.github.io/publication/andresen-ultrathin-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/publication/andresen-ultrathin-2016/</guid>
+      <guid>https://siddharth-sivankutty.github.io/publication/andresen-ultrathin-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Widefield lensless endoscopy with a multicore fiber</title>
-      <link>siddharth-sivankutty.github.io/publication/tsvirkun-widefield-2016/</link>
+      <link>https://siddharth-sivankutty.github.io/publication/tsvirkun-widefield-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/publication/tsvirkun-widefield-2016/</guid>
+      <guid>https://siddharth-sivankutty.github.io/publication/tsvirkun-widefield-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From microscopy to fluorescence nanoscopy,De la microscopie à la nanoscopie de fluorescence</title>
-      <link>siddharth-sivankutty.github.io/publication/bourg-microscopy-2015/</link>
+      <link>https://siddharth-sivankutty.github.io/publication/bourg-microscopy-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/publication/bourg-microscopy-2015/</guid>
+      <guid>https://siddharth-sivankutty.github.io/publication/bourg-microscopy-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measurement and compensation of residual group delay in a multi-core fiber for lensless endoscopy</title>
-      <link>siddharth-sivankutty.github.io/publication/andresen-measurement-2015/</link>
+      <link>https://siddharth-sivankutty.github.io/publication/andresen-measurement-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/publication/andresen-measurement-2015/</guid>
+      <guid>https://siddharth-sivankutty.github.io/publication/andresen-measurement-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards two-photon lensless endoscopes: Inter-core group delay compensation in a multi-core fiber</title>
-      <link>siddharth-sivankutty.github.io/publication/andresen-towards-2015/</link>
+      <link>https://siddharth-sivankutty.github.io/publication/andresen-towards-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/publication/andresen-towards-2015/</guid>
+      <guid>https://siddharth-sivankutty.github.io/publication/andresen-towards-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Confocal supercritical angle microscopy for cell membrane imaging</title>
-      <link>siddharth-sivankutty.github.io/publication/sivankutty-confocal-2014/</link>
+      <link>https://siddharth-sivankutty.github.io/publication/sivankutty-confocal-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/publication/sivankutty-confocal-2014/</guid>
+      <guid>https://siddharth-sivankutty.github.io/publication/sivankutty-confocal-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards STED microscopy with nanometric optical sectioning</title>
-      <link>siddharth-sivankutty.github.io/publication/sivankutty-towards-2013/</link>
+      <link>https://siddharth-sivankutty.github.io/publication/sivankutty-towards-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/publication/sivankutty-towards-2013/</guid>
+      <guid>https://siddharth-sivankutty.github.io/publication/sivankutty-towards-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>siddharth-sivankutty.github.io/admin/config.yml</link>
+      <link>https://siddharth-sivankutty.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>siddharth-sivankutty.github.io/admin/config.yml</guid>
+      <guid>https://siddharth-sivankutty.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
