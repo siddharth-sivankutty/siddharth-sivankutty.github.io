@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Endoscopic imaging | Siddharth Sivankutty</title>
+    <link>https://siddharth-sivankutty.github.io/tag/endoscopic-imaging/</link>
+      <atom:link href="https://siddharth-sivankutty.github.io/tag/endoscopic-imaging/index.xml" rel="self" type="application/rss+xml" />
+    <description>Endoscopic imaging</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://siddharth-sivankutty.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Endoscopic imaging</title>
+      <link>https://siddharth-sivankutty.github.io/tag/endoscopic-imaging/</link>
+    </image>
+    
+    <item>
+      <title>Single-shot noninterferometric measurement of the phase transmission matrix in multicore fibers</title>
+      <link>https://siddharth-sivankutty.github.io/publication/sivankutty-single-shot-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://siddharth-sivankutty.github.io/publication/sivankutty-single-shot-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
