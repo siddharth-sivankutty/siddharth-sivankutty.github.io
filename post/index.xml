@@ -5,12 +5,45 @@
     <link>https://siddharth-sivankutty.github.io/post/</link>
       <atom:link href="https://siddharth-sivankutty.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://siddharth-sivankutty.github.io/media/icon_hudfa57532e4624a2f1262326ee2be104c_32924_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://siddharth-sivankutty.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Institut de Physique Grant!</title>
+      <link>https://siddharth-sivankutty.github.io/post/2022-05-30_grant_inp/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://siddharth-sivankutty.github.io/post/2022-05-30_grant_inp/</guid>
+      <description>&lt;p&gt;The results of the &lt;a href=&#34;https://www.inp.cnrs.fr/fr/cnrsinfo/resultats-de-lappel-projets-specifique-tremplininp-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tremplin&lt;/a&gt; grants are out! And many thanks to the [Institute  de Physique] (&lt;a href=&#34;https://www.inp.cnrs.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.inp.cnrs.fr/&lt;/a&gt;) fully funding our project on exploring the nonlinear optics in novel fiber systems for use in optical neural nets.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IRCICA - Grant for Disruptive Tech</title>
+      <link>https://siddharth-sivankutty.github.io/post/2022-01-05_grant_ircica/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://siddharth-sivankutty.github.io/post/2022-01-05_grant_ircica/</guid>
+      <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
+&lt;p&gt;Woohoo! Here comes the money. Many thanks to &lt;a href=&#34;https://ircica.univ-lille.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IRCICA&lt;/a&gt; for this generous grant aimed at developing disruptive technologies in the areas of information sciences. In addition, this gives us the opportunity to be embedded in this exciting eco-system alongside experts in optical physics, neural nets and information theory! And not to forget, the brand new lab space :)&lt;/p&gt;
+&lt;p&gt;Looking ahead to the exciting times ahead. It&amp;rsquo;s a new dawn, a new lab, and a new town for me!!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CNRS concours - Results Out !</title>
+      <link>https://siddharth-sivankutty.github.io/post/2021-06-10_results_cnrs/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://siddharth-sivankutty.github.io/post/2021-06-10_results_cnrs/</guid>
+      <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
+&lt;p&gt;Finally! After the nail-biting (and excruciating) finish on the ranking list last year, I am overjoyed to get started on this adventure at the [PhLAM] (&lt;a href=&#34;https://phlam.univ-lille.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://phlam.univ-lille.fr/&lt;/a&gt;) lab.&lt;/p&gt;
+&lt;p&gt;The main focus of my work will be on emulating bio-inspired neural networks with coherent and nonlinear optical systems. But I will continue to dabble with my first love, imaging :) Many thanks to the mentors and colleagues at [Institut Fresnel] (&lt;a href=&#34;https://www.fresnel.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.fresnel.fr&lt;/a&gt;), at &lt;a href=&#34;http://www.ismo.universite-paris-saclay.fr/?lang=fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISMO&lt;/a&gt; and more recently at &lt;a href=&#34;https://www.cailabs.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cailabs&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As a reminder to myself in the future -&amp;gt; Never forget that the whole process remains a bit of a lottery, despite the best intentions of the jury and the institutions involved. And I was extremely lucky that the dice rolled in my favour. This has to change. Time ang again, technological progress has been a remarkable tool of social development. In this context, the precarious nature of the research landscape academic job market is disgusting.&lt;/p&gt;
+ &lt;!-- In the short term, post-docs and PhD students need a clear way out of the system as opposed to being stuck in the middle of what is becoming a gigantic pyramid scheme. --&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

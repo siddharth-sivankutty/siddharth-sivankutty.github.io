@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grants | Siddharth Sivankutty</title>
+    <link>https://siddharth-sivankutty.github.io/tag/grants/</link>
+      <atom:link href="https://siddharth-sivankutty.github.io/tag/grants/index.xml" rel="self" type="application/rss+xml" />
+    <description>Grants</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://siddharth-sivankutty.github.io/media/icon_hudfa57532e4624a2f1262326ee2be104c_32924_512x512_fill_lanczos_center_3.png</url>
+      <title>Grants</title>
+      <link>https://siddharth-sivankutty.github.io/tag/grants/</link>
+    </image>
+    
+    <item>
+      <title>Institut de Physique Grant!</title>
+      <link>https://siddharth-sivankutty.github.io/post/2022-05-30_grant_inp/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://siddharth-sivankutty.github.io/post/2022-05-30_grant_inp/</guid>
+      <description>&lt;p&gt;The results of the &lt;a href=&#34;https://www.inp.cnrs.fr/fr/cnrsinfo/resultats-de-lappel-projets-specifique-tremplininp-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tremplin&lt;/a&gt; grants are out! And many thanks to the [Institute  de Physique] (&lt;a href=&#34;https://www.inp.cnrs.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.inp.cnrs.fr/&lt;/a&gt;) fully funding our project on exploring the nonlinear optics in novel fiber systems for use in optical neural nets.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IRCICA - Grant for Disruptive Tech</title>
+      <link>https://siddharth-sivankutty.github.io/post/2022-01-05_grant_ircica/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://siddharth-sivankutty.github.io/post/2022-01-05_grant_ircica/</guid>
+      <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
+&lt;p&gt;Woohoo! Here comes the money. Many thanks to &lt;a href=&#34;https://ircica.univ-lille.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IRCICA&lt;/a&gt; for this generous grant aimed at developing disruptive technologies in the areas of information sciences. In addition, this gives us the opportunity to be embedded in this exciting eco-system alongside experts in optical physics, neural nets and information theory! And not to forget, the brand new lab space :)&lt;/p&gt;
+&lt;p&gt;Looking ahead to the exciting times ahead. It&amp;rsquo;s a new dawn, a new lab, and a new town for me!!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
